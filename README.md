@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sonamyy
+- 👋 Hi, I’m Sonam
 - 👀 I’m interested in Data science
 - 🌱 I’m currently working on NLP projects
-- 💞️ I’m looking for job opportunities in Data Analysis and Data science
+- 💞️ I’m looking for job opportunities in Data Analytics and Data science
 - 📫 How to reach me -- sonamyadav275@gmail.com
 
 <!---
